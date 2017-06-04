@@ -19,4 +19,10 @@ if(!$con){
 	//echo "<h3>Database connection success!</h3>";	
 }
 
+
+?>
+<?php
+	echo '<center><h3>';
+	echo '<em>The LJ Generator app website is coming soon.</em>';
+	echo '</h3></center>';
 ?>
