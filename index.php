@@ -22,7 +22,7 @@ if(!$con){
 
 ?>
 <?php
-	echo '<center><h3>';
+	echo '<center><br /><br /><h3>';
 	echo '<em>The LJ Generator app website is coming soon.</em>';
 	echo '</h3></center>';
 ?>
